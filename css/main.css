@@ -1,0 +1,26 @@
+body {
+	background-color: #fdf6e3;
+}
+
+h3 {
+	color: #b58900;
+	text-align: center;
+	border-bottom: 3px solid black;
+}
+
+h4 {
+	color: #b58900;
+	text-align: center;
+}
+#imgs{
+	height: 300px;
+	background-attachment: fixed;
+	overflow: auto;
+	white-space: nowrap;
+}
+
+#imgs .sliding {
+	display: inline-block;
+}
+
+
